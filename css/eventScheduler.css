@@ -1,0 +1,113 @@
+.container{
+	border: 1px solid white ;
+	height: 600px;
+	margin-top: 10px;
+}
+
+.panel-heading {
+	position: relative;
+	height: 50px;
+	text-align: center;
+}
+
+.panel-heading p{
+	width: 90%;
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	font-size: 14pt;
+	font-weight: bolder;
+
+}
+.panel-body{
+	border: 1px solid #ccc;
+	margin: 10px;
+}
+#schedule{
+	
+
+}
+#sched{
+	margin-top: 50px;
+	
+}
+#myForm{
+	margin-top: 40px;
+	
+}
+.event{
+	width: 350px;
+	height: 30px;
+}
+#title{
+	width: 350px;
+	height: 30px;
+}
+#locate{
+	width: 350px;
+	height: 30px;
+}
+#area{
+	width: 400px;
+
+}
+#name{
+	width: 350px;
+	height: 30px;
+}
+#email{
+	width: 350px;
+	height: 30px;
+}
+
+#date{
+	width: 160px;
+
+}
+
+#datee{
+	width: 160px;
+}
+#time{
+	width: 160px;
+}
+#timee{
+	width: 160px;
+}
+
+#next2{
+	margin-top: 30px;
+}
+#section2{
+	padding: 0px;
+	margin-top: 60px;
+	display: none;
+}
+#section3{
+	display: none;
+}
+.col-sm-5{
+	padding: 0px;
+	margin: 10px 0px;
+}
+.participate{
+	padding: 0px;
+	
+}
+#calender{
+	display: none;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+			width: 100%;
+			margin: auto;
+}
+
+#home{
+	margin-top: 50px;
+}
+#section4{
+	display: none;
+	margin-left: 140px;
+}
